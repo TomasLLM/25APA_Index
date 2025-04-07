@@ -9,3 +9,6 @@ Index de pràctiques de l'alumne Tomàs Lloret per a l'assignatura Algorísmia i
 
 ## Pràctica 3
 * [Pràctica 3](https://github.com/TomasLLM/APA-T3)
+
+## Pràctica 4
+* [Pràctica 4](https://github.com/TomasLLM/APA-T4)
