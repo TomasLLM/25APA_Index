@@ -18,3 +18,6 @@ Index de pràctiques de l'alumne Tomàs Lloret per a l'assignatura Algorísmia i
 
 ## Pràctica 6
 * [Pràctica 6](https://github.com/TomasLLM/APA-T6)
+
+## Examen final
+* [Examen final](https://github.com/TomasLLM/APA-Examen)
